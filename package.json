@@ -1,0 +1,28 @@
+{
+  "name": "facteur",
+  "version": "1.0.0",
+  "description": "The server api for Facteur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FastIT/facteur.git"
+  },
+  "keywords": [
+    "mailer",
+    "api",
+    "rest"
+  ],
+  "author": "FastIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FastIT/facteur/issues"
+  },
+  "homepage": "https://github.com/FastIT/facteur#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "winston": "^2.2.0"
+  }
+}
